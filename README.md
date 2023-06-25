@@ -1,8 +1,8 @@
-# Hi there 👋, my name is Baki
-### React Developer 
 ![React Developer ](https://i.ibb.co/rxzVV4B/Black-Technology-Linked-In-Banner-1.png)
+# Hi there 👋, I'm Baki
+### A passionate web Developer from Bangladesh
 
-I'm Baki from Bangladesh, I really enjoy learning different technologies and frameworks, And I like React. I also enjoy designing UI.
+I really enjoy learning different technologies and frameworks, And I like React. I also enjoy designing UI.
 
 ## Skills and Experience
 * ⚛ React
