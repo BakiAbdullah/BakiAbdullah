@@ -16,5 +16,10 @@ I really enjoy learning different technologies and frameworks, And I like React.
 - 💬 Talk to me about Web Design, JavaScript, React. 
 
 ## Connect With Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' background-color='blue' height='40'>](https://github.com/BakiAbdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AbdullahilBaki/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/BakiAbdullah)  
+
+[<img src='https://img.icons8.com/?size=512&id=52539&format=png' alt='github' background-color='blue' height='40'>](https://github.com/BakiAbdullah)
+[<img src='https://img.icons8.com/?size=512&id=44019&format=png' alt='linkedin' height='40'>](https://www.linkedin.com/in/AbdullahilBaki/) 
+[<img src='https://img.icons8.com/?size=512&id=118501&format=png' alt='facebook' height='40'>](https://www.facebook.com/BakiAbdullah) 
+[<img src='https://img.icons8.com/?size=512&id=bYzsf9Bmocst&format=png' alt='twitter' height='40'>](https://twitter.com/mebaki3) 
+
 
