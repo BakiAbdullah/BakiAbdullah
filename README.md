@@ -1,12 +1,17 @@
-### Hi there 👋, my name is Baki
-#### React Developer 
+# Hi there 👋, my name is Baki
+### React Developer 
 ![React Developer ](https://i.ibb.co/rxzVV4B/Black-Technology-Linked-In-Banner-1.png)
 
 I'm Baki from Bangladesh, I really enjoy learning different technologies and frameworks, And I like React. I also enjoy designing UI.
 
-Skills: REACT / JS / Tailwind CSS / Express JS / MongoDB
+## Skills and Experience
+* ⚛ React
+* ✨Tailwind CSS
+* 💻Express JS
+* 🍃MongoDB
 
-- 🔭 I’m currently working on My Porfolio Site 
+
+- 🔭 I’m currently working on My Portfolio Site 
 - 🌱 I’m currently learning NEXT JS || Redux 
 - 💬 Ask me about Web Design 
 
