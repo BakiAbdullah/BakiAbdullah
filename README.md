@@ -1,4 +1,4 @@
-![React Developer ](https://i.ibb.co/rxzVV4B/Black-Technology-Linked-In-Banner-1.png)
+![React Developer ](https://i.ibb.co/GtgRVT2/my-banner.png)
 # Hi there 👋, I'm Baki
 ### A passionate Web Developer from Bangladesh
 
@@ -13,7 +13,7 @@ I really enjoy learning different technologies and frameworks, And I like React.
 ## About Me 🤵
 - 🔭 I’m currently working on My Portfolio Site 
 - 🌱 I’m currently learning NEXT JS || Redux 
-- 💬 Talk to me about Web Design, JavaScript, React. 
+- 💬 Talk to me about Web Design, JavaScript, and React. 
 
 ## Connect With Me
 
