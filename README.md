@@ -11,7 +11,6 @@ I really enjoy learning different technologies and frameworks, And I like React.
 * 🍃MongoDB
 
 ## About Me 🤵
-- 🔭 I’m currently working on My Portfolio Site 
 - 🌱 I’m currently learning NEXT JS || Prisma ORM
 - 💬 Talk to me about Web Design, JavaScript, and React. 
 
