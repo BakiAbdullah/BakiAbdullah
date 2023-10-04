@@ -12,7 +12,7 @@ I really enjoy learning different technologies and frameworks, And I like React.
 
 ## About Me 🤵
 - 🔭 I’m currently working on My Portfolio Site 
-- 🌱 I’m currently learning NEXT JS || Redux 
+- 🌱 I’m currently learning NEXT JS || Prisma 
 - 💬 Talk to me about Web Design, JavaScript, and React. 
 
 ## Connect With Me
