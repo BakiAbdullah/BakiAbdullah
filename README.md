@@ -2,8 +2,6 @@
 # Hi there 👋, I'm Baki
 ### A passionate Web Developer from Bangladesh
 
-JavaScript TypeScript PHP Docker React.js Vue.js Alpine.js Vite Node.js jQuery Laravel WordPress Elementor Python Markdown HTML CSS3 TailwindCSS Bootstrap MySQL MariaDB SQLite Redis Netlify Cloudflare Debian Zorin Mac OS
-
 I really enjoy learning different technologies and frameworks, And I like React. I also enjoy designing UI.
 
 ## Skills and Experience
