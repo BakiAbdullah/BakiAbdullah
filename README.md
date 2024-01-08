@@ -5,10 +5,11 @@
 I enjoy learning different technologies and frameworks, And I like React. I also enjoy designing UI.
 
 ## Skills and Experience
-* ⚛ React
-* ✨Tailwind CSS
-* 💻Express JS
-* 🍃MongoDB
+* 🌀 TypeScript
+* ⚛  React
+* ✨ Tailwind CSS
+* 💻 Express JS
+* 🍃 MongoDB
 
 ## About Me 🤵
 - 🌱 I’m currently learning TypeScript || Mongoose
