@@ -12,7 +12,7 @@ I enjoy learning different technologies and frameworks, And I like React. I also
 * 🍃 MongoDB
 
 ## About Me 🤵
-- 🌱 I’m currently learning TypeScript || Mongoose
+- 🌱 I’m currently learning Redux || Mongoose
 - 💬 Talk to me about Web Design, JavaScript, and React. 
 
 ## Connect With Me
