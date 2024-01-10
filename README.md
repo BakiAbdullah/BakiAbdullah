@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Baki Abdullah
 ### A passionate Web Developer from Bangladesh
 
-I enjoy learning different technologies and frameworks, And I like React. I also enjoy designing UI.
+I enjoy learning and exploring different technologies and frameworks, And I like React. I also enjoy designing UI.
 
 ## Skills and Experience
 * 🌀 TypeScript
