@@ -13,7 +13,7 @@ I enjoy learning and exploring different technologies and frameworks, And I like
 
 ## About Me 🤵
 - 🌱 I’m currently learning Redux || Mongoose
-- 💬 Talk to me about Web Design, JavaScript, and React. 
+- 💬 Talk to me about Web Development, JavaScript, and React. 
 
 ## Connect With Me
 
