@@ -1,5 +1,5 @@
 ![React Developer ](https://i.ibb.co/GtgRVT2/my-banner.png)
-# Hi there 👋, I'm Baki Abdullah
+# Hi there 👋, I'm Baki Abdullah.
 ### A passionate Web Developer from Bangladesh.
 
 I enjoy learning and exploring different technologies and frameworks, And I like React. I also enjoy designing UI.
