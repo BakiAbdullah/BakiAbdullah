@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Baki Abdullah.
 ### A passionate Web Developer from Bangladesh.
 
-I enjoy learning and exploring different technologies and frameworks, And I like React. I also enjoy designing UI.
+I enjoy learning and exploring new technologies and frameworks, I also enjoy designing UI.
 
 ## Skills and Experience
 * 🌀 TypeScript
@@ -12,7 +12,7 @@ I enjoy learning and exploring different technologies and frameworks, And I like
 * 🍃 MongoDB
 
 ## About Me 🤵
-- 🌱 I’m currently learning Redux || Mongoose
+- 🌱 I’m currently learning TypeScript || PostgreSQL
 - 💬 Talk to me about Web Development, JavaScript, and React. 
 
 ## Connect With Me
