@@ -1,6 +1,6 @@
 ![React Developer ](https://i.ibb.co/GtgRVT2/my-banner.png)
 # Hi there 👋, I'm Baki Abdullah.
-### A passionate Web Developer from Bangladesh.
+### A passionate Web Developer from Rajshahi, Bangladesh.
 
 I enjoy learning and exploring new technologies and frameworks, I also enjoy designing UI.
 
