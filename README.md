@@ -5,10 +5,14 @@
 I enjoy learning and exploring new technologies and frameworks, I also enjoy designing UI.
 
 ## Skills and Experience
+* ⚛️ React
+* ⚛️ Next js 
 * 🌀 TypeScript
-* ⚛  React
+* ⚛️ Redux
+* 🔼 Prisma
 * ✨ Tailwind CSS
 * 💻 Express JS
+* 🧊 Node js
 * 🍃 MongoDB
 
 ## About Me 🤵
