@@ -1,4 +1,4 @@
-![React Developer ]([https://i.ibb.co/GtgRVT2/my-banner.png](https://res.cloudinary.com/dbknbnlb0/image/upload/v1767031214/Md._Abdullahil_Baki_kee9ko.png))
+![React Developer ](https://res.cloudinary.com/dbknbnlb0/image/upload/v1767031214/Md._Abdullahil_Baki_kee9ko.png)
 # Hi there 👋, I'm Baki Abdullah.
 ### A passionate Web Developer from Rajshahi, Bangladesh.
 
