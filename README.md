@@ -1,8 +1,12 @@
 ![React Developer ](https://res.cloudinary.com/dbknbnlb0/image/upload/v1767031214/Md._Abdullahil_Baki_kee9ko.png)
-# Hi there 👋, I'm Baki Abdullah.
-A self taught learner and Web Developer from Rajshahi, Bangladesh.
+### Hi there 👋, I'm Baki Abdullah. A self taught learner and Web Developer from Rajshahi, Bangladesh.
+<br/>
+<br/>
 
----
+## About Me 🤵
+- 🌱 I’m currently learning TypeScript || PostgreSQL
+- 💬 Talk to me about Web Development, JavaScript, and React.
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -29,6 +33,7 @@ A self taught learner and Web Developer from Rajshahi, Bangladesh.
   <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="40" height="40" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"  /> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwindcss" width="40" height="40"/></a>
 </p>
+<br/>
 
 ## Skills and Experience
 * ⚛️ React
@@ -43,9 +48,6 @@ A self taught learner and Web Developer from Rajshahi, Bangladesh.
 
 [![Baki Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakiAbdullah)](https://github.com/BakiAbdullah/github-readme-stats)
 
-## About Me 🤵
-- 🌱 I’m currently learning TypeScript || PostgreSQL
-- 💬 Talk to me about Web Development, JavaScript, and React. 
 
 ## Connect With Me
 
