@@ -1,10 +1,10 @@
 ![React Developer ](https://res.cloudinary.com/dbknbnlb0/image/upload/v1767031214/Md._Abdullahil_Baki_kee9ko.png)
 # Hi there 👋, I'm Baki Abdullah.
-### A self taught learner and Web Developer from Rajshahi, Bangladesh.
+A self taught learner and Web Developer from Rajshahi, Bangladesh.
 
 ---
 
-##<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -39,8 +39,7 @@
 * 🧊 Node js
 * 🍃 MongoDB
 
-##Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakiAbdullah)](https://github.com/BakiAbdullah/github-readme-stats)
+[![Baki Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakiAbdullah)](https://github.com/BakiAbdullah/github-readme-stats)
 
 ## About Me 🤵
 - 🌱 I’m currently learning TypeScript || PostgreSQL
