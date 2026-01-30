@@ -5,6 +5,7 @@
 
 ## About Me 🤵
 - 🌱 I’m currently learning TypeScript || PostgreSQL
+- 🧊 Planning to learn Docker & Unit Testing.
 - 💬 Talk to me about Web Development, JavaScript, and React.
 <br/>
 
